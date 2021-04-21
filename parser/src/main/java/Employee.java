@@ -1,6 +1,3 @@
-//TODO Тут нам может потребоваться JSONAware. Кстати, для его работы должен быть
-// определен соответствующий тусринг. если добавить интерфейс сюда, то идея сама это скажет
-
 import org.json.simple.JSONAware;
 
 public class Employee implements JSONAware {
